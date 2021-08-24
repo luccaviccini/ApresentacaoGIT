@@ -1,1 +1,2 @@
 Este arquivo serve para mostrar o funcionamento do GIT
+Escrevendo segunda linha
